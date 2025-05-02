@@ -18,13 +18,20 @@ I'm a passionate software developer from India who loves building cool stuff and
 ---
 
 ## 🛠️ Tech Stack
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" alt="html5 logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="28" alt="c++ logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="28" alt="c logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="28" alt="bootstrap logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="python logo"  />
+</div>
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-<br/><br/>
+<br><br>
+
 ---
 
 ## 📈 GitHub Stats
