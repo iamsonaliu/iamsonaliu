@@ -1,16 +1,50 @@
-## Hi there 👋
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,Techies!👋;I'm+SONALI+UPADHYAY..;This+is+my+profile!&center=true&size=30"> 
+  </a>
+</h1>
 
-<!--
-**iamsonaliu/iamsonaliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there.👋
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate software developer from India who loves building cool stuff and solving real-world problems.
+
+- 🔭 I’m currently working on: Leveling up my skills and exploring new technologies.
+- 🌱 I’m currently learning: Python, DSA with C++, HTML,CSS and JavaScript
+- 💬 Ask me about: Web dev, Python, Java, C++
+- ⚡ Fun fact: I can sing while coding to relieve the fuss(or we can say to increase the anger level😜).
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sonali-upadhyay-a75660283/)
+
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+<br/><br/>
+---
+
+## 📈 GitHub Stats
+
+![Sonali's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsonaliu&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsonaliu&layout=compact&theme=radical)
+
+---
+
+<img align="left" src="https://profile-counter.glitch.me/iamsonaliu/count.svg?"  />
+<br>
+
+---
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sonali-upadhyay-a75660283/)](https://www.linkedin.com/in/sonali-upadhyay-a75660283/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/iamsonaliu)](https://github.com/iamsonaliu)
+
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
