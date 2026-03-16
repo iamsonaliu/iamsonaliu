@@ -34,8 +34,6 @@ I'm a passionate software developer from India who loves building cool stuff and
 
 ## 📈 GitHub Stats
 
-![Sonali's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsonaliu&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsonaliu&layout=compact&theme=radical)
 
 ---
