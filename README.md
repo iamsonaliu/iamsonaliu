@@ -88,7 +88,7 @@ Built with **Python / C++**.
 ## 📌 Currently Working On
 
 - Sharpening DSA fundamentals for technical interview rounds
-- Exploring Python deeper — backend systems and data workflows
+- Exploring Java deeper — backend systems and data workflows
 - Building projects that go beyond tutorials
 
 ---
