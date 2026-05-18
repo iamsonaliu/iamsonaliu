@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Techies!+👋;I'm+Sonali+Upadhyay...;Welcome+to+my+profile!&center=true&size=30&color=F97316&width=500" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Sonali+Upadhyay...;Welcome+to+my+profile!&center=true&size=30&color=F97316&width=500" />
 </a>
 
 <br/>
